@@ -1,0 +1,73 @@
+{
+  "students": [
+    {
+      "student_code": "001",
+      "last_name": "\u0418\u0432\u0430\u043D\u043E\u0432",
+      "first_name": "\u0418\u0432\u0430\u043D",
+      "middle_name": "\u0418\u0432\u0430\u043D\u043E\u0432\u0438\u0447"
+    },
+    {
+      "student_code": "002",
+      "last_name": "\u041F\u0435\u0442\u0440\u043E\u0432",
+      "first_name": "\u041F\u0435\u0442\u0440",
+      "middle_name": "\u041F\u0435\u0442\u0440\u043E\u0432\u0438\u0447"
+    },
+    {
+      "student_code": "003",
+      "last_name": "\u0421\u0438\u0434\u043E\u0440\u043E\u0432",
+      "first_name": "\u0421\u0438\u0434\u043E\u0440",
+      "middle_name": "\u0421\u0438\u0434\u043E\u0440\u043E\u0432\u0438\u0447"
+    }
+  ],
+  "subjects": [
+    {
+      "subject_code": "001",
+      "name": "\u041C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430"
+    },
+    {
+      "subject_code": "002",
+      "name": "\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430"
+    },
+    {
+      "subject_code": "003",
+      "name": "\u0424\u0438\u0437\u0438\u043A\u0430"
+    }
+  ],
+  "curriculum": [
+    {
+      "student_code": "001",
+      "subject_code": "001",
+      "grade": 5
+    },
+    {
+      "student_code": "001",
+      "subject_code": "002",
+      "grade": 5
+    },
+    {
+      "student_code": "002",
+      "subject_code": "001",
+      "grade": 3
+    },
+    {
+      "student_code": "002",
+      "subject_code": "001",
+      "grade": 4
+    },
+    {
+      "student_code": "002",
+      "subject_code": "001",
+      "grade":5
+    },
+    {
+      "student_code": "002",
+      "subject_code": "001",
+      "grade": 5
+    },
+    {
+      "student_code": "002",
+      "subject_code": "001",
+      "grade": 5
+    }
+  ]
+}
